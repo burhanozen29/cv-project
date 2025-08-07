@@ -43,7 +43,8 @@ streamlit run app.py
 | Aşama | Başlık                                 | Durum     |
 |-------|----------------------------------------|-----------|
 | ✅    | Proje Kararı                           | Tamam    |
-| 🔜    | CV yükleme ve metin çıkarımı (OCR/PDF) | v1       |
+| 🔜    | Kullanıcı Girişi ve Profil Ekranı      | Yapılıyor|
+| 🔜    | CV yükleme ve metin çıkarımı (OCR/PDF) | Yapılıyor|
 | 🔜    | Pozisyon tanımı girişi / seçimi        | v1       |
 | 🔜    | NLP ile yetenek çıkarımı               | v1       |
 | 🔜    | Cosine Similarity ile eşleşme skoru    | v1       |
