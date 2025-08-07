@@ -42,14 +42,14 @@ streamlit run app.py
 
 | Aşama | Başlık                                 | Durum     |
 |-------|----------------------------------------|-----------|
-| ✅    | CV yükleme ve metin çıkarımı (OCR/PDF) | Tamamlandı |
-| ✅    | Pozisyon tanımı girişi / seçimi        | Tamamlandı |
-| ✅    | NLP ile yetenek çıkarımı               | Tamamlandı |
-| ✅    | Cosine Similarity ile eşleşme skoru    | Tamamlandı |
-| 🔜    | Kapak mektubu üretimi (LLM)            | Planlandı |
-| 🔜    | CV iyileştirme önerileri               | Planlandı |
-| 🔜    | LinkedIn pozisyon entegrasyonu         | Planlandı |
-| 🔜    | Kurumsal kullanıcı paneli              | Planlandı |
+| ✅    | CV yükleme ve metin çıkarımı (OCR/PDF) | v1       |
+| ✅    | Pozisyon tanımı girişi / seçimi        | v1       |
+| ✅    | NLP ile yetenek çıkarımı               | v1       |
+| ✅    | Cosine Similarity ile eşleşme skoru    | v1       |
+| 🔜    | Kapak mektubu üretimi (LLM)            | v2       |
+| 🔜    | CV iyileştirme önerileri               | v2       |
+| 🔜    | LinkedIn pozisyon entegrasyonu         | v2       |
+| 🔜    | Kurumsal kullanıcı paneli              | v2       |
 
 ---
 
@@ -76,7 +76,7 @@ streamlit run app.py
 
 Burhan Özen  
 📫 [GitHub](https://github.com/burhanozen29)  
-📧 burhan.ozen@example.com
+📧 burhan.ozen@outlook.com
 
 ---
 
