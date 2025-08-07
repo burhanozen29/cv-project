@@ -42,10 +42,11 @@ streamlit run app.py
 
 | Aşama | Başlık                                 | Durum     |
 |-------|----------------------------------------|-----------|
-| ✅    | CV yükleme ve metin çıkarımı (OCR/PDF) | v1       |
-| ✅    | Pozisyon tanımı girişi / seçimi        | v1       |
-| ✅    | NLP ile yetenek çıkarımı               | v1       |
-| ✅    | Cosine Similarity ile eşleşme skoru    | v1       |
+| ✅    | Proje Kararı                           | Tamam    |
+| 🔜    | CV yükleme ve metin çıkarımı (OCR/PDF) | v1       |
+| 🔜    | Pozisyon tanımı girişi / seçimi        | v1       |
+| 🔜    | NLP ile yetenek çıkarımı               | v1       |
+| 🔜    | Cosine Similarity ile eşleşme skoru    | v1       |
 | 🔜    | Kapak mektubu üretimi (LLM)            | v2       |
 | 🔜    | CV iyileştirme önerileri               | v2       |
 | 🔜    | LinkedIn pozisyon entegrasyonu         | v2       |
