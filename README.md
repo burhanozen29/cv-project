@@ -1,3 +1,7 @@
+
+<img width="50" height="50" alt="Career Radar Logo" src="https://github.com/user-attachments/assets/be69fb99-845d-4a0b-a55d-47865b1f8eec" />
+
+
 # 📄 CV Uygunluk ve Yetenek Skorlama Sistemi
 
 Bu proje, kullanıcıların PDF formatında CV'lerini yükleyerek bir iş pozisyonu ile ne kadar uyumlu olduklarını analiz etmelerini sağlar.  
