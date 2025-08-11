@@ -1,7 +1,6 @@
 
-<img width="50" height="50" alt="Career Radar Logo" src="https://github.com/user-attachments/assets/be69fb99-845d-4a0b-a55d-47865b1f8eec" />
-<img width="50" height="50" alt="Career Radar (4)" src="https://github.com/user-attachments/assets/d4ebfb75-a963-46f1-829e-1d862a2eb160" />
-
+<img width="50" height="22" alt="careerRadarBoldT" src="https://github.com/user-attachments/assets/5e159e37-6d77-454c-bf54-2c22c5dfd755" />
+<img width="50" height="50" alt="careerRadarLogoT" src="https://github.com/user-attachments/assets/d6861049-87a6-45be-848c-04fa97f715f9" />
 
 # 📄 CV Uygunluk ve Yetenek Skorlama Sistemi
 
